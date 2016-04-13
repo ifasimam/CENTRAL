@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CENTRAL</string>
+
+    <!-- string name central010102w -->
+    <string name="txt_userID">UserID:</string>
+    <string name="txt_pass">Password:</string>
+    <string name="white_shift">WHITE</string>
+    <string name="red_shift">RED</string>
+    <string name="btn_login">Login</string>
+</resources>
